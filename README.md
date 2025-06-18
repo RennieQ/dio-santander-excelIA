@@ -13,6 +13,11 @@ Respondendo perguntas como, o quanto investir, por quanto tempo, qual a taxa de 
 ## 🎫Tecnologias utilizadas
 - Excel
 
+## 🎨Imagens da aplicação
+![Campos de cálculo do controle de Investimentos](https://github.com/RennieQ/dio-santander-excelIA/blob/main/images/DIO-investapp1.png)
+
+![Gráficos interativos da aplicação](https://github.com/RennieQ/dio-santander-excelIA/blob/main/images/DIO-investapp2.png)
+
 ## 🔎Referências
 Fundos de Investimentos Imobiliários:
 
