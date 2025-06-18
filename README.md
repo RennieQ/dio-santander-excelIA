@@ -8,7 +8,7 @@ Criando uma Ferramenta de Controle de Investimentos com Excel, parte de um estud
 
 O desafio foi o de construir uma aplicação que permita realizar cálculos automatizados que simulam o investimento em diversos cenários. Dessa forma, o usuário pode mais facilmente entender suas necessidades, limites e possibilidades, permitindo-o decidir qual o melhor caminho para seus investimentos.
 
-Respondendo perguntas como, o quanto investir, por quanto tempo, qual a taxa de rendimento, etc., criamos uma planilha  que  automatiza os cálculos do valor total investido, o patrimônio acumulado e os dividendos mensais, proporcionando ao usuário uma visão clara de seu potencial retorno.
+Respondendo perguntas como, o quanto investir, por quanto tempo, qual a taxa de rendimento, etc., criamos uma planilha que automatiza os cálculos do valor total investido, o patrimônio acumulado e os dividendos mensais. Gráficos interativos ilustram os resultados conforme os cenários escolhidos, proporcionando ao usuário a clareza de seu potencial retorno.
 
 ## 🎫Tecnologias utilizadas
 - Excel
